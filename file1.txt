@@ -1,3 +1,3 @@
 random text omg woah
 
-it took me two hours to figure out how to connect github to jira
+it took me two hours to figure out how to connect github to jira.
